@@ -1,0 +1,3 @@
+Vitamin C Serum, Garnier,317,1000.0, France
+Skin Cleanser, Cetaphil,231,250.0, Switzerland
+Sunscreen, Aqualogica,112,500.0, India
